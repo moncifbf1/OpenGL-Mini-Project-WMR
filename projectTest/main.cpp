@@ -1,6 +1,5 @@
 /*
  Updated by Bounif Moncif on 30/12/2015.
- Copyright 2015 Cassio Diego Campos. All rights reserved.
  */
 
 #ifdef __APPLE__
